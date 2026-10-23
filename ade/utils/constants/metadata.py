@@ -1,0 +1,16 @@
+CLIENT_ID = "client_id"
+TENANT_ID = "tenant_id"
+CLIENT_SECRET = "client_secret"
+SUBSCRIPTION_ID = "subscription_id"
+RESOURCE_GROUP = "resource_group"
+STORAGE_ACCOUNT = "storage_account"
+LAW_ID = "law_id"
+LAW_SECRET = "law_secret"
+
+INNER_COLUMNS = "inner_columns"
+SUB_TYPE = "sub_type"
+
+DATA_TYPE = "data_type"
+NAME = "name"
+NULLABLE = "nullable"
+METADATA = "metadata"
